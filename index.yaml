@@ -1,0 +1,27 @@
+apiVersion: v1
+entries:
+  wordpress:
+  - apiVersion: v1
+    appVersion: 5.3.3
+    created: "2021-02-10T19:40:18.129945135Z"
+    deprecated: true
+    description: My WordPress chart
+    digest: 41d5a1866837ed59a99c455f44fc713a52d1bd3d6436afadc5420c03b0bc7d32
+    engine: gotpl
+    home: http://askljaslkjfila.com
+    icon: https://bitnami.com/assets/stacks/wordpress/img/wordpress-stack-220x234.png
+    keywords:
+    - wordpress
+    - cms
+    - blog
+    - http
+    - web
+    - application
+    - php
+    name: wordpress
+    sources:
+    - https://github.com/bitnami/bitnami-docker-wordpress
+    urls:
+    - wordpress-9.0.3.tgz
+    version: 9.0.3
+generated: "2021-02-10T19:40:18.107404651Z"
